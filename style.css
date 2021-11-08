@@ -1,0 +1,31 @@
+body {
+    background-color: whitesmoke;
+    font-size: 16px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    background-color: whitesmoke;
+    padding: 20px;
+    margin: 5px;
+    margin-bottom: 0px;
+    border: 5px solid #808080;
+}
+
+h2 {
+    background-color: whitesmoke;
+    padding: 5px 20px;
+    margin: 10px;
+
+}
+
+hr {
+    height: 2px;
+}
+
+.content {
+    background-color: snow ;
+    width: 75%;
+    margin: auto;
+    padding: 20px;
+}
